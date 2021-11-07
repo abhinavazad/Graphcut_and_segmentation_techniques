@@ -2,7 +2,7 @@
 
 Consists of various image segmentation techniques for medical images
 
-1. Histogram based Segmentation
+### 1. Histogram based Segmentation
 
   a. Global Thersholding
  
@@ -11,7 +11,7 @@ Consists of various image segmentation techniques for medical images
     i. Upon NLM blurring
     ii. Upon Bilateral blurring
 
-2. Energy minimization in Graphcut technique for Segmentation 
+### 2. Energy minimization in Graphcut technique for Segmentation 
   a. Alpha-Beta swap 
   b. Alpha-expansion
   
